@@ -1,5 +1,3 @@
-# manipula-o-lista-ligada
-
 # Introdução
 ```
 Estas atividades foram desenvolvidas para o terceiro semestre na disciplina de Estrutura e Recuperação de Dados A.
