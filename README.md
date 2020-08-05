@@ -1,7 +1,5 @@
 # manipula-o-lista-ligada
 
-# Redes-de-Computadores-A---Atividades
-
 # Introdução
 ```
 Estas atividades foram desenvolvidas para o terceiro semestre na disciplina de Estrutura e Recuperação de Dados A.
